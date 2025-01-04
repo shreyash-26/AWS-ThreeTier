@@ -39,3 +39,15 @@ The architecture ensures scalability, high availability, and security by utilizi
 
 ---
 
+## Usage
+- Accessing the Web Application: Use the DNS name of the ALB to access the application.
+- Monitoring Resources: Utilize AWS CloudWatch for logs and metrics.
+- Scaling: Adjust the Auto Scaling group as needed for traffic.
+
+---
+## Troubleshooting
+- Verify the security group rules for inbound and outbound traffic.
+- Ensure correct parameter configurations during template deployment.
+- Check logs in CloudWatch for application and system issues.
+
+---
