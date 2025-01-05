@@ -15,8 +15,8 @@ The architecture ensures scalability, high availability, and security by utilizi
 
 ## Architecture Diagram
 
-![Architecture Diagram](./App/ThreeTierAppArchitecture.png)
-![Architecture Diagram](./App/Network_Architecture.png)
+![Architecture Diagram](./App/ThreeTierAppArchitecture1.png)
+![Architecture Diagram](./App/Network_Architecture1.png)
 
 
 ---
